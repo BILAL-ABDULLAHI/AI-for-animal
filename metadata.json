@@ -1,0 +1,7 @@
+{
+  "name": "VetSense AI",
+  "description": "A specialized Artificial Intelligence system for animal health problem analysis and decision support, providing accurate diagnoses and preventive guidance for livestock and companion animals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
